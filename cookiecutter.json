@@ -1,0 +1,34 @@
+﻿{
+	"batch_account_name": "",
+	"batch_account_key": "",
+	"batch_account_url": "",
+	"storage_account_name": "",
+	"storage_account_key": "",
+	"_visual_studio": {
+		"batch_account_name": {
+			"label": "Batch Account Name",
+			"description": "The Azure batch account name",
+			"selector": "string"
+		},
+		"batch_account_key": {
+			"label": "Batch Account Key",
+			"description": "The Azure batch account key",
+			"selector": "string"
+		},
+		"batch_account_url": {
+			"label": "Batch Account Url",
+			"description": "The Azure batch account url",
+			"selector": "string"
+		},
+		"storage_account_name": {
+			"label": "Storage Account Name",
+			"description": "The Azure storage account name",
+			"selector": "string"
+		},
+		"storage_account_key": {
+			"label": "Storage Account Key",
+			"description": "The Azure storage account key",
+			"selector": "string"
+		}
+	}
+}
