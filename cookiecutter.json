@@ -1,10 +1,16 @@
 {
+	"root_folder": "batch-python-paas-cloud-service-pool",
 	"batch_account_name": "",
 	"batch_account_key": "",
 	"batch_account_url": "",
 	"storage_account_name": "",
 	"storage_account_key": "",
 	"_visual_studio": {
+		"root_folder": {
+			"label": "Root Folder",
+			"description": "Root folder for the sample",
+			"selector": "string"
+		},
 		"batch_account_name": {
 			"label": "Batch Account Name",
 			"description": "The Azure batch account name",
